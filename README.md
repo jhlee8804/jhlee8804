@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there 👋
+![](https://komarev.com/ghpvc/?username=jhlee8804&style=flat)
 
 <!--
 **jhlee8804/jhlee8804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+[![jhlee8804's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhlee8804)](https://github.com/anuraghazra/github-readme-stats)
